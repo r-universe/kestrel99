@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pmxTools"]
 	path = pmxTools
 	url = https://github.com/kestrel99/pmxtools
-	shallow = true
-	registered = true
 [submodule "xpose.nlmixr2"]
 	path = xpose.nlmixr2
 	url = https://github.com/cran/xpose.nlmixr2
-	shallow = true
-	registered = true
